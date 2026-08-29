@@ -1,0 +1,13 @@
+pkgbase = rustconn-ru
+	pkgdesc = Полная русская локализация для RustConn (SSH/RDP/VNC менеджер)
+	pkgver = 0.21.0
+	pkgrel = 1
+	url = https://github.com/ayxix/rustconn-ru
+	arch = any
+	license = GPL-3.0-or-later
+	makedepends = gettext
+	depends = rustconn
+	source = rustconn_ru.po
+	sha256sums = c0deeeb53a79cb25cd84a52e3fc2505ce10e88f8aaa9400f2e68763e794da359
+
+pkgname = rustconn-ru
